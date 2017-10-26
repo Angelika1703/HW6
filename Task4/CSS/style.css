@@ -1,0 +1,26 @@
+.pagination{
+	padding: 20px;
+
+}
+ul{
+	text-align: center;
+}
+li{
+	display: inline-block; 
+	padding: 2px 6px;
+}
+a{
+	color: #c32b70;
+	font-weight: bold;
+	font-size: 50px;
+	letter-spacing: 10px;
+}
+a:hover{
+	color: #ec61a0;
+}
+.active a{
+	color: #440c26; 
+}
+a.previous, a.next{
+	color: #e09bba;
+}

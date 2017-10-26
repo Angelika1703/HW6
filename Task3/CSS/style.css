@@ -1,0 +1,20 @@
+body{
+	background: #e51875;
+}
+.circle{
+	position: absolute;
+	width: 144px;
+	height: 144px;
+  	background: #fab250; 
+  	border-radius: 72px;
+  	top: 47px;
+  	left: 47px;
+}
+.plus{
+	position: absolute;
+	font-size: 70px;
+	color: white;
+	font-weight: bold;
+	top: 32px;
+	left: 52px;
+}

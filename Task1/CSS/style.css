@@ -1,0 +1,70 @@
+
+.conteiner{
+	width: 550px;
+	height: 40px;
+	background: #444;
+}
+.menu_1{
+	float: left;
+	height: 45px;	
+	text-align: center;
+	background-color: #ff8400;
+	font: 24px, sans-serif;
+	color: #fff;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-left: 20px;
+	line-height: 35px;
+}
+.menu_2{
+	float: left;
+	height: 40px;	
+	text-align: center;
+	background-color: #e42b2b;
+	font: 24px, sans-serif;
+	color: #fff;
+	padding-left: 20px;
+	padding-right: 20px;
+	line-height: 35px;
+}
+
+.menu_3{
+	float: left;
+	height: 40px;	
+	text-align: center;
+	background-color: #a800ff;
+	font: 24px, sans-serif;
+	color: #fff;
+	padding-left: 20px;
+	padding-right: 20px;
+	line-height: 35px;
+}
+.menu_4{
+	float: left;
+	height: 40px;	
+	text-align: center;
+	background-color: #49a7f3;
+	font: 24px, sans-serif;
+	color: #fff;
+	padding-left: 20px;
+	padding-right: 20px;
+	line-height: 35px;
+}
+.menu_5{
+	float: left;
+	clear: none;
+	height: 40px;	
+	text-align: center;
+	background-color: #41d05f;
+	font: 24px, sans-serif;
+	color: #fff;
+	padding-left: 20px;
+	padding-right: 20px;
+	line-height: 35px;
+}
+.tought{
+	top: 60px;
+	height: 5px;
+	background-color: #ff8400;	
+	z-index: 1;
+}

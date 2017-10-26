@@ -1,0 +1,51 @@
+body{
+	background: url(../img/fon.jpg);
+}
+.text{
+	position: absolute;
+	font: 48px Trola;
+	letter-spacing: 9px;
+	word-spacing: 17px;
+	text-transform: uppercase;
+	top: 111px;
+	left: 107px;
+}
+.el {
+	position: absolute;
+	top: 0;
+	left: 391px;
+}
+.box{
+	background: #000;
+	width: 20px;
+	height: 20px;
+}
+
+.box1{
+	position: absolute;
+	top: 0;
+	left: 317px;
+}
+.box2{
+	position: absolute;
+	top: 0;
+	left: 357px;
+}
+
+.box3{
+	position: absolute;
+	top: 20px;
+	left: 337px;
+}
+
+.box4{
+	position: absolute;
+	top: 40px;
+	left: 317px;
+}
+
+.box5{
+	position: absolute;
+	top: 40px;
+	left: 357px;
+}
